@@ -14,3 +14,6 @@ Thus, this link is only for populating new progress on the application and for f
 07.07.2022 - List of participating stations along with the names and phone numbers of each Cheif Superintendent of Police (CSP) allocated to each district  withing Abuja Municipal | 
 15.07.2022 - Reached 97% website completion |
 21.07.2022 - Started developing the first user interface |
+
+## First User Interface (Web Version)
+Link: https://obinnachukwunwendu.wixsite.com/opener-io
